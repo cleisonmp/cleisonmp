@@ -1,7 +1,16 @@
-### Hi there 👋
+<div align="center">
+<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/cleisonmp/cleisonmp/blob/main/gifs/helloHand.gif" width="30"></h2>
+<br />
+I'm a Web Developer with 7+ years of experience developing and implementing applications and solutions using a range of technologies and programming languages, and 6+ years of experience as a manager outside IT.
+<br />
+<br />
+<a href="https://www.linkedin.com/in/cleison-pereira-00582639/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
 
 <div align="center">
-  <h2> 🧰 Toolbox</h2>
+  <h2> 🧰 Current Toolbox</h2>
   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/html.svg" alt="html"></a>
   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/css.svg" alt="css"></a>
   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/javascript.svg" alt="javascript"></a>
