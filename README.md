@@ -17,7 +17,7 @@ I'm a Web Developer with 7+ years of experience developing and implementing appl
   <a margin="10" href="https://www.typescriptlang.org/" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/typescript.svg" alt="typescript"></a>
   <br />
   <br />
-  <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/react.svg" alt="react"></a>
+  <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/reactWithText.svg" alt="react"></a>
   <a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/nextjs.svg" alt="next js"></a>
   <a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/tailwind.svg" alt="tailwind"></a>
   <a margin="10" href="https://styled-components.com/" target="_blank"><img margin="10px" height="40" color="DB7093" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/styledcomponents.svg" alt="styled components"></a>
