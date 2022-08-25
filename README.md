@@ -9,6 +9,11 @@ I'm a Web Developer with 7+ years of experience developing and implementing appl
 </a>
 </div>
 
+## 📌 Check out my most recent projects:
+- [Px-News - News blog with subscription paywall](https://px-news.vercel.app/)
+- [Coffee Delivery - Front-end study project for a coffee shop](https://coffee-delivery-omega.vercel.app/)
+- [Nextjs component for a loading effect between pages.](https://github.com/cleisonmp/nextjs-progressbar-spinner)
+
 <div align="center">
   <h2> 🧰 Current Toolbox</h2>
   <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/html.svg" alt="html"></a>
