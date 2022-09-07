@@ -10,10 +10,11 @@ I'm a Web Developer with 7+ years of experience developing and implementing appl
 </div>
 
 ## 📌 Check out my most recent projects:
+
 - [Px-News - News blog with subscription paywall](https://px-news.vercel.app/)
 - [Coffee Delivery - Front-end study project for a coffee shop](https://coffee-delivery-omega.vercel.app/)
 - [Nextjs component for a loading effect between pages.](https://github.com/cleisonmp/nextjs-progressbar-spinner)
-- :construction:[Wip: Dashboard for data management](https://dashgo-dev.vercel.app/)
+- :construction:[Wip: Dashboard for data management](https://din-go.vercel.app/dashboard)
 
 <div align="center">
   <h2> 🧰 Current Toolbox</h2>
@@ -31,6 +32,7 @@ I'm a Web Developer with 7+ years of experience developing and implementing appl
   <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/sass.svg" alt="sass"></a>  
   <br />
   <br />  
+  <a margin="10" href="https://react-hook-form.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/hookForm.svg" alt="react hook form"></a>
   <a margin="10" href="https://fauna.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/fauna.svg" alt="fauna db"></a>
   <a margin="10" href="https://axios-http.com/" target="_blank"><img margin="10px" width="50" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/axios.svg" alt="axios http"></a>
   <a margin="10" href="https://stripe.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/cleisonmp/cleisonmp/blob/main/svgs/stripe.svg" alt="stripe"></a>
