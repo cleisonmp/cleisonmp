@@ -14,6 +14,7 @@ I'm a Web Developer with 7+ years of experience developing and implementing appl
 - [Px-News - News blog with subscription paywall](https://px-news.vercel.app/)
 - [Coffee Delivery - Front-end study project for a coffee shop](https://coffee-delivery-omega.vercel.app/)
 - [Nextjs component for a loading effect between pages.](https://github.com/cleisonmp/nextjs-progressbar-spinner)
+- :construction:[Wip: Shirt shop](https://ignite-shop-umber.vercel.app/)
 - :construction:[Wip: Dashboard for data management](https://din-go.vercel.app/dashboard)
 
 <div align="center">
