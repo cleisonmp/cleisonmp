@@ -9,15 +9,10 @@ I'm experienced senior frontend developer specializing in creating dynamic and v
 </a>
 </div>
 
-## 📌 Check out my most recent study projects:
+## 📌 Check some old study projects:
 
 - [Pokédex App](https://px-pokedex.vercel.app/)
-- [Px-News - News blog with subscription paywall](https://px-news.vercel.app/)
-- [Shirt shop](https://ignite-shop-umber.vercel.app/)
 - [Coffee Delivery - Front-end project for a coffee shop](https://coffee-delivery-omega.vercel.app/)
-- [Admin Dashboard](https://din-go.vercel.app/dashboard)
-- [Hangman Game](https://the-hangman-game.vercel.app/)
-- [Nextjs component for a loading effect between pages.](https://github.com/cleisonmp/nextjs-progressbar-spinner)
 
 <div align="center">
   <h2> 🧰 Current Toolbox</h2>
